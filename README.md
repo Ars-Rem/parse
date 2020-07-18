@@ -1,2 +1,2 @@
 # parse
-parser for avito
+parser for avto.ria
