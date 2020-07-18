@@ -35,6 +35,7 @@ def get_content(html):
 
         })
     print(cars)
+    print(len(cars))
     return cars
 
 
